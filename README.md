@@ -1,1 +1,2 @@
 Fiji Warehouse Simulation rfid_inventory_ui_v17.html
+Fiji Warehouse Simulation rfid_inventory_ui_v126.html
